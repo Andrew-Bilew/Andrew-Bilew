@@ -32,7 +32,7 @@ Reporting & Visualization: Tableau, GGPlot2, Matplotlib
 
 [Stock Price Time Series](projects/AndrewBilew_assignment4-1.ipynb) Loaded ExxonMobil stock data (XOM.CSV), converted Date to datetime index, and generated time-series visualizations of open/close prices and trading volume to uncover market patterns.
 
-[Pet Store Sales Analysis](projects/Andrew_Bilew_Test 2.sql) (SQL) 
+[Pet Store Sales Analysis](projects/Andrew_Bilew_Test%202.sql) (SQL) 
   Crafted a suite of optimized queries against the `petstore4` schema to uncover key business insights:  
   - Top‐selling merchandise categories in Q2 and specifically in May  
   - Suppliers who delivered the highest volume of cat products  
