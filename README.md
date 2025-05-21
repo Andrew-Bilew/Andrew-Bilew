@@ -8,7 +8,7 @@ Graduate Certification in Business analytics, University of Nebraska-Lincoln (Ma
 
 Undergrad: B.A. in Economics, University of Nebraska–Lincoln (2023)
 
-Tools: Python, R, SQL, Tableau, scikit-learn
+Tools: Python, R, Excel, SQL, Tableau, scikit-learn
 
 Strengths: Predictive modeling, data visualization, optimization
 
