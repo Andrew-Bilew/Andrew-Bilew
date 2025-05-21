@@ -31,6 +31,12 @@ Reporting & Visualization: Tableau, GGPlot2, Matplotlib
 [Bank Loan Prediction](projects/AndrewBilew_assignment6.ipynb) Worked with UniversalBank.csv to explore client demographics and financial behaviors, performed feature engineering and scaling, then trained and evaluated K-Nearest Neighbors and logistic regression models to predict personal loan uptake with high accuracy.
 
 [Stock Price Time Series](projects/AndrewBilew_assignment4-1.ipynb) Loaded ExxonMobil stock data (XOM.CSV), converted Date to datetime index, and generated time-series visualizations of open/close prices and trading volume to uncover market patterns.
+
+- **Pet Store Sales Analysis (SQL)**  
+  Crafted a suite of optimized queries against the `petstore4` schema to uncover key business insights:  
+  - Top‐selling merchandise categories in Q2 and specifically in May  
+  - Suppliers who delivered the highest volume of cat products  
+  - Utilized `JOIN`s, `GROUP BY`, date‐functions (`QUARTER()`, `MONTH()`), aggregates (`SUM()`, `COUNT()`), sorting and `LIMIT` to deliver fast, actionable answers  
 <!--
 **Andrew-Bilew/Andrew-Bilew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
