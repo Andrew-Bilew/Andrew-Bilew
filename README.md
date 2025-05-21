@@ -6,7 +6,7 @@ Degree: M.S. in Business Analytics, University of Nebraska–Lincoln (May 2025)
 
 Graduate Certification in Business analytics, University of Nebraska-Lincoln (May 2024)
 
-Undergrad: B.A. in Economics, University of Nebraska–Lincoln (2022)
+Undergrad: B.A. in Economics, University of Nebraska–Lincoln (2023)
 
 Tools: Python, R, SQL, Tableau, scikit-learn
 
